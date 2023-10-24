@@ -4,6 +4,8 @@ In this project, we developed a high-speed dimensional reduction algorithm desig
 
 In the meantime, we offer access to the RBD algorithm, complete with two practical examples: image compression and video compression. It's important to note that the primary goal isn't limited to the application of HYBRID or RBD in video/image compression; instead, it focuses on using images and videos to effectively illustrate the efficiency of these algorithms.
 
+![Lena](https://github.com/ishmaelrezaei/HYBRID/blob/main/Image_Compression/Images/lena.png)
+
 To see more detail on RBD please refere to:
 
   - Chen, Yanlai. "[Reduced basis decomposition: A certified and fast lossy data compression algorithm](https://www.sciencedirect.com/science/article/pii/S0898122115004630)." Computers & Mathematics with Applications (2015).
