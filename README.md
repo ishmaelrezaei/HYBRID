@@ -1,10 +1,12 @@
-# [Parametric Gaussian Processes](https://maziarraissi.github.io/ParametricGP/) in Python
+# [HYper-reduced Basis Reduction via Interactive Decomposition](https://ishmaelrezaei.github.io/HYBRID/) in Python
 
-This work introduces the concept of parametric Gaussian processes (PGPs), which is built upon the seemingly self-contradictory idea of making Gaussian processes parametric. Parametric Gaussian processes, by construction, are designed to operate in "big data" regimes where one is interested in quantifying the uncertainty associated with noisy data. The proposed methodology circumvents the well-established need for stochastic variational inference, a scalable algorithm for approximating posterior distributions. The effectiveness of the proposed approach is demonstrated using an illustrative example with simulated data and a benchmark dataset in the airline industry with approximately 6 million records.
+In this project, we developed a high-speed dimensional reduction algorithm designed for efficiently handling massive matrices. Our work involved enhancing the Reduced Basis Dimension (RBD) algorithm by incorporating numerical solutions for partial differential equations. We are currently preparing to release the code for the HYBRID algorithm following its paper publication.
 
-For more details, please refer to the following: (https://maziarraissi.github.io/ParametricGP/)
+In the meantime, we offer access to the RBD algorithm, complete with two practical examples: image compression and video compression. It's important to note that the primary goal isn't limited to the application of HYBRID or RBD in video/image compression; instead, it focuses on using images and videos to effectively illustrate the efficiency of these algorithms.
 
-  - Raissi, Maziar. "[Parametric Gaussian Process Regression for Big Data](https://arxiv.org/abs/1704.03144)." arXiv preprint arXiv:1704.03144 [stat.ML] (2017).
+To see more detail on RBD please refere to:
+
+  - Chen, Yanlai. "[Reduced basis decomposition: A certified and fast lossy data compression algorithm](https://www.sciencedirect.com/science/article/pii/S0898122115004630)." Computers & Mathematics with Applications (2015).
 
 ## Citation
 
