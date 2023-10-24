@@ -1,5 +1,7 @@
 # [HYper-reduced Basis Reduction via Interactive Decomposition](https://ishmaelrezaei.github.io/HYBRID/) in Python
 
+> **Note:** This is a highlighted notice.
+
 In this project, we developed a high-speed dimensional reduction algorithm designed for efficiently handling massive matrices. Our work involved enhancing the Reduced Basis Dimension (RBD) algorithm by incorporating numerical solutions for partial differential equations. We are currently preparing to release the code for the HYBRID algorithm following its paper publication.
 
 In the meantime, we offer access to the RBD algorithm, complete with two practical examples: image compression and video compression. It's important to note that the primary goal isn't limited to the application of HYBRID or RBD in video/image compression; instead, it focuses on using images and videos to effectively illustrate the efficiency of these algorithms.
