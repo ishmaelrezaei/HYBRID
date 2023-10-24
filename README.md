@@ -34,6 +34,7 @@ To run any example, you can copy your image in the "Images" folder and your vide
     
     # Video compression
     video_path = 'VideoSample/Sample1.mp4'
+    ![Video Example](https://github.com/ishmaelrezaei/HYBRID/blob/main/Video_Compression/VideoSample/Sample1.mp4)
 
 ## Installing Dependencies
 
