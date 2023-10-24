@@ -1,9 +1,6 @@
 # [HYper-reduced Basis Reduction via Interactive Decomposition](https://ishmaelrezaei.github.io/HYBRID/) in Python
 
-> **Note:** This is a highlighted notice.
-> <div style="background-color: #FFFF00; padding: 10px;">
-    <strong>Notice:</strong> This is a highlighted notice in yellow.
-</div>
+> **Note:** This is a part of the HYBRID code; the comprehensive code will be available after we publish our paper.
 
 
 In this project, we developed a high-speed dimensional reduction algorithm designed for efficiently handling massive matrices. Our work involved enhancing the Reduced Basis Dimension (RBD) algorithm by incorporating numerical solutions for partial differential equations. We are currently preparing to release the code for the HYBRID algorithm following its paper publication.
