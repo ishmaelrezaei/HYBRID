@@ -10,7 +10,7 @@ In the meantime, we offer access to the RBD algorithm, complete with two practic
 
 ![Lena](https://github.com/ishmaelrezaei/HYBRID/blob/main/Image_Compression/ReconstructedImage.png)
 
-To see more detail on RBD please refere to:
+To see more detail on RBD please refer to:
 
   - Chen, Yanlai. "[Reduced basis decomposition: A certified and fast lossy data compression algorithm](https://www.sciencedirect.com/science/article/pii/S0898122115004630)." Computers & Mathematics with Applications (2015).
 
