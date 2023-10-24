@@ -10,12 +10,16 @@ To see more detail on RBD please refere to:
 
 ## Citation
 
-    @article{raissi2017parametric,
-      title={Parametric Gaussian Process Regression for Big Data},
-      author={Raissi, Maziar},
-      journal={arXiv preprint arXiv:1704.03144},
-      year={2017}
-    }
+  @article{chen2015reduced,
+    title={Reduced basis decomposition: a certified and fast lossy data compression algorithm},
+    author={Chen, Yanlai},
+    journal={Computers \& Mathematics with Applications},
+    volume={70},
+    number={10},
+    pages={2566--2574},
+    year={2015},
+    publisher={Elsevier}
+  }
 
 ## Example
 
@@ -35,10 +39,9 @@ To see an example, please run the file `one_dimensional_example.py` in the folde
 
 This code depends on `autograd` (https://github.com/HIPS/autograd), `tensorflow` (https://www.tensorflow.org/), `numpy` (http://www.numpy.org/), `scikit-learn` (http://scikit-learn.org/stable/index.html), `matplotlib` (https://matplotlib.org/), `pyDOE` (https://pythonhosted.org/pyDOE/), and `pandas` (http://pandas.pydata.org/) which can be installed using
 
-    pip install autograd
-    pip install tensorflow
-    pip install numpy
-    pip install -U scikit-learn
     pip install matplotlib
-    pip install --upgrade pyDOE
-    pip install pandas
+    pip install cv2
+    pip install numpy
+    pip install PIL
+    pip install sys
+    
