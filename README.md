@@ -25,21 +25,15 @@ To see more detail on RBD please refere to:
 
 ## Example
 
-To see an example, please run the file `one_dimensional_example.py` in the folder `/PGPs_autograd/Examples/` or `/PGPs_tensorflow/Examples/`.
+To run any example, you can copy your image in the "Images" folder and your video in the "VideoSample" folder. Then, replace the file name in the Example_Image_Compression.py file for the image compression example and in the Example_Video_Compression.py file for the video example. Each example, uses RBD code which is in the class RBMs (RBMs_Functions folder).
 
-    # let X, y be the loaded data
-    # Model creation:
-    pgp = PGP(X, y, M = 8, max_iter = 6000, N_batch = 1)
+    # Image compression
+    file_name = 'Lena.png';
     
-    # Training
-    pgp.train()
-    
-    # Prediction
-    mean_star, var_star = pgp.predict(X_star)
+    # Video compression
+    video_path = 'VideoSample/Sample1.mp4'
 
 ## Installing Dependencies
-
-This code depends on `autograd` (https://github.com/HIPS/autograd), `tensorflow` (https://www.tensorflow.org/), `numpy` (http://www.numpy.org/), `scikit-learn` (http://scikit-learn.org/stable/index.html), `matplotlib` (https://matplotlib.org/), `pyDOE` (https://pythonhosted.org/pyDOE/), and `pandas` (http://pandas.pydata.org/) which can be installed using
 
     pip install matplotlib
     pip install cv2
