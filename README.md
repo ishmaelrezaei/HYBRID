@@ -10,16 +10,18 @@ To see more detail on RBD please refere to:
 
 ## Citation
 
-  @article{chen2015reduced,
-    title={Reduced basis decomposition: a certified and fast lossy data compression algorithm},
-    author={Chen, Yanlai},
-    journal={Computers \& Mathematics with Applications},
-    volume={70},
-    number={10},
-    pages={2566--2574},
-    year={2015},
-    publisher={Elsevier}
-  }
+    @article{chen2015reduced,
+      title={Reduced basis decomposition: a certified and fast lossy data compression algorithm},
+      author={Chen, Yanlai},
+      journal={Computers \& Mathematics with Applications},
+      volume={70},
+      number={10},
+      pages={2566--2574},
+      year={2015},
+      publisher={Elsevier}
+      year={2017}
+    }
+
 
 ## Example
 
