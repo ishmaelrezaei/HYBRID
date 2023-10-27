@@ -38,7 +38,7 @@ if __name__ == "__main__":
     Reconstructed_frame = np.zeros((nr, nc, nd), dtype=float)
 
     # Define the video file name and codec
-    video_name = 'video.avi'
+    video_name = 'ReconstructedVideo.avi'
 
     height, width, layers = frame.shape
 
